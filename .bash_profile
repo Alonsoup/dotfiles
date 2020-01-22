@@ -15,3 +15,4 @@ export NVM_DIR="/Users/Alonso/.nvm"
 function mkd() {
     mkdir -p "$@" && cd "$_";
 }
+#Nevermind. lol
